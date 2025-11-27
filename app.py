@@ -640,7 +640,7 @@ CONCEPTOS = [
         "Curva de nivel que se orienta casi verticalmente en el plano. Sugiere que la función "
         "varía más con el eje y que con el eje x."
     )
-}
+},
 
 
     # ==================================================
