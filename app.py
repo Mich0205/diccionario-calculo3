@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Diccionario Cálculo 3 Completo", layout="wide")
 
-st.title("📘 Diccionario Completo de Cálculo Multivariable")
+st.title("📘 Diccionario Completo de Cálculo")
 st.write("Selecciona un término para ver su concepto.")
 
 # ==================================================
