@@ -575,6 +575,74 @@ CONCEPTOS = [
         )
     },
 
+    {
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Curva de nivel",
+    "definition": (
+        "Conjunto de puntos (x, y) donde una función f(x, y) toma un valor constante, "
+        "es decir, f(x, y) = c. Es la representación en el plano de la altura constante "
+        "de una superficie z = f(x, y)."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Mapa de contornos",
+    "definition": (
+        "Dibujo formado por muchas curvas de nivel que representan los valores de la "
+        "función en diferentes alturas. Si las curvas están juntas, la función cambia "
+        "rápido; si están separadas, cambia lento."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Superficie z = f(x,y)",
+    "definition": (
+        "Representación tridimensional de una función de dos variables. Cada punto (x, y) "
+        "tiene una altura z. Las curvas de nivel son cortes horizontales de la superficie."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Intersección superficie–plano",
+    "definition": (
+        "El corte de la superficie z = f(x, y) con un plano horizontal z = k produce "
+        "una curva de nivel. Geométricamente equivale a 'rebanar' la superficie."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Curvas de nivel cerradas",
+    "definition": (
+        "Curvas de nivel que forman un lazo completo alrededor de un punto. Indican zonas "
+        "de máximo, mínimo o elevaciones tipo montaña o valle."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Curvas de nivel abiertas",
+    "definition": (
+        "Curvas que no se cierran y se extienden indefinidamente en el plano. "
+        "Ocurren en funciones como planos inclinados."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Separación entre curvas de nivel",
+    "definition": (
+        "Indica cómo cambia la función: si están juntas, el cambio es rápido (alta pendiente). "
+        "Si están separadas, la variación es lenta."
+    )
+},
+{
+    "category": "3. Diferenciabilidad y Aproximación",
+    "name": "Curva de nivel vertical",
+    "definition": (
+        "Curva de nivel que se orienta casi verticalmente en el plano. Sugiere que la función "
+        "varía más con el eje y que con el eje x."
+    )
+}
+
+
     # ==================================================
     # 4. GRADIENTE, DERIVADAS DIRECCIONALES, PLANO TANGENTE
     # ==================================================
