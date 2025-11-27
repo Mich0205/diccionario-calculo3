@@ -251,7 +251,7 @@ CONCEPTOS = [
         "definition": (
             "Un conjunto es cerrado si contiene el límite de toda sucesión convergente de elementos del conjunto."
         )
-    }
+    },
 
 
     # ==================================================
@@ -724,7 +724,7 @@ CONCEPTOS = [
             "Para dominios con borde, los máximos/mínimos también pueden aparecer en la frontera. "
             "Debe verificarse con métodos especiales."
         )
-    }
+    },
 
     # ==================================================
     # 6. CAMPOS VECTORIALES, DIVERGENCIA, ROTACIONAL
@@ -904,7 +904,7 @@ CONCEPTOS = [
         "definition": (
             "Curva donde r(a)=r(b). Se usa en teoremas de circulación como el de Green."
         )
-    }
+    },
 
     # ==================================================
     # 7. INTEGRALES DOBLES Y TRIPLES
@@ -1295,7 +1295,7 @@ CONCEPTOS = [
         "definition": (
             "Una superficie S parametrizada por r(u,v) tiene elemento de área dS = |r_u × r_v| du dv."
         )
-    }
+    },
 
     # ==================================================
     # 10. OPTIMIZACIÓN SIN RESTRICCIONES
@@ -1523,7 +1523,7 @@ CONCEPTOS = [
         "definition": (
             "Restricción que no afecta el punto óptimo porque no se cumple con igualdad."
         )
-    }
+    },
 
     # ==================================================
     # 10. OPTIMIZACIÓN SIN RESTRICCIONES
@@ -1751,7 +1751,7 @@ CONCEPTOS = [
         "definition": (
             "Restricción que no afecta el punto óptimo porque no se cumple con igualdad."
         )
-    }
+    },
 
     # ==================================================
     # 12. CURVAS EN EL ESPACIO Y FUNCIONES VECTORIALES
@@ -1972,7 +1972,7 @@ CONCEPTOS = [
         "definition": (
             "Describe cómo se curva y tuerce la curva independientemente de su parametrización."
         )
-    }
+    },
 
     # ==================================================
     # 14. SERIES DE TAYLOR MULTIVARIABLE
@@ -2117,7 +2117,7 @@ CONCEPTOS = [
         "definition": (
             "El tamaño de df indica qué tan sensible es f ante pequeños cambios en sus entradas."
         )
-    }
+    },
 
 
 # ==================================================
